@@ -1,0 +1,4 @@
+interface:
+  display_name: "邮箱资料收集与归档"
+  short_description: "批量收集邮箱资料，筛选去重、补取链接附件、提取字段并核对归档完整性"
+  default_prompt: "使用 $email-materials-organizer，按指定范围批量收集邮箱资料，整理名单、统一命名并检查缺失项。"
